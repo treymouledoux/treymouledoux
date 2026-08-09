@@ -19,6 +19,6 @@
 <!-- <h1 align="center">My GitHub Stats</h2>
 <p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrEnder0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=treymouledoux" />
 </a>
 </p> -->
