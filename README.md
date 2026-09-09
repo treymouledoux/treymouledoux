@@ -13,6 +13,8 @@
     <img src="https://skillicons.dev/icons?i=github,git,vscode,stackoverflow,linux,flask,unity,ai,regex,sqlite,godot" />
   </a>
 </p>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=treymouledoux&layout=pie&langs_count=10&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=treymouledoux&layout=pie&langs_count=10&theme=dark_github)
 <br>
 
 <!-- Appears to now be broken/deprecated, left for possible future replacment/refrence-->
