@@ -15,6 +15,7 @@
 </p>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=treymouledoux&layout=pie&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=treymouledoux&layout=pie&langs_count=10&theme=transparent)
+[![Pydle Stats](https://raw.githubusercontent.com/treymouledoux/Pydle-Stats/refs/heads/master/assets/pydle-progress.svg)
 <br>
 
 <!-- Appears to now be broken/deprecated, left for possible future replacment/refrence-->
