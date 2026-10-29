@@ -15,7 +15,7 @@
 <h1 align="center">Stats</h1>
 <p align="center">
   <a href="https://github.com/treymouledoux">
-    <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=treymouledoux&layout=pie&langs_count=10&theme=transparent" alt="Top Languages" />
+    <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=treymouledoux&layout=pie&langs_count=8&theme=catppuccin_mocha" alt="Top Languages" />
   </a>
   <a href="https://github.com/treymouledoux/Pydle-Stats">
     <img align="top" src="https://raw.githubusercontent.com/treymouledoux/Pydle-Stats/refs/heads/master/assets/pydle-progress.svg" alt="Pydle Stats" />
