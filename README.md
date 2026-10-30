@@ -1,14 +1,14 @@
 <h1 align="center">Languages I Use</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,py,js" alt="Rust, Python, JavaScript" />
+    <img src="https://skillicons.dev/icons?i=rust,py,js" alt="rust, python, cpp, js, go" />
   </a>
 </p>
 
 <h1 align="center">Tools I Use</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,github,git,vscode,flask,ai,regex,sqlite,godot" alt="Linux, GitHub, Git, VS Code, Flask, AI, Regex, SQLite, Godot" />
+    <img src="https://skillicons.dev/icons?i=linux, github, git, vscode, ai, ps, regex, sqlite, cloudflare, kali, godot" alt="Linux, GitHub, Git, VS Code, Flask, AI, Regex, SQLite, Godot" />
   </a>
 </p>
 
